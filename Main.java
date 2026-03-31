@@ -2,8 +2,8 @@ package TP2;
 
 public class Main {
     public static void main(String[] args) {
-        SangPelempar pelempar1 = new SangPelempar("Ervink", "Eiger", 42, 25.5, "Helm", "Hoodie");
-        SangPelempar pelempar2 = new SangPelempar("Hamdi", "New Era", 44, 28, "Songkok", "Sarung");
+        SangPelempar pelempar1 = new SangPelempar("Kelvin", "Eiger", 42, 25.5, "Helm", "Hoodie");
+        SangPelempar pelempar2 = new SangPelempar("Joy", "New Era", 44, 28, "Songkok", "Sarung");
 
         pelempar1.checkStatus();
         pembatas();
